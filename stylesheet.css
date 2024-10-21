@@ -1,0 +1,15 @@
+.background-settings {
+    background-color: bisque;
+    align-items: center;
+    border-radius: 20px;
+    border-color: brown;
+}
+
+.title {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subheading {
+    font-size: 32px;
+}
